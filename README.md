@@ -62,10 +62,7 @@ The data is based on the comprehensive Pokémon dataset provided by [lgreski/pok
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn plotly
    ```
-3. Run the notebook:
-   ```bash
-   jupyter notebook pokemon_pca.ipynb
-   ```
+3. Run the notebook `pokemon_pca.ipynb`
 
 ---
 
